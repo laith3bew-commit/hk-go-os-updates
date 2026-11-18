@@ -1,11 +1,14 @@
 {
   "app": "hk_go_os",
-  "version": "0.1.4",
-  "build": 5,
-  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.4/HK-Go-OS-0.1.4-Windows.zip",
-  "sha256": "8a15ab84f650eb055dc38be4adf71f8160e78d6ae9e6e7ad994e987108b8fb8d",
+  "version": "0.1.5",
+  "build": 6,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.5/HK-Go-OS-0.1.5-Windows.zip",
+  "sha256": "bb35200e0290c7f5df213d4fa1279b19b73772bb3b107b498b5d45eaed39b738",
   "neuerungen": [
-    "HK Go OS lässt sich nur noch einmal öffnen. Ein zweites Fenster zeigt „HK Go OS läuft bereits“ (zwei Fenster belegten den Server und Handys konnten sich nicht verbinden).",
-    "Startseite: Wenn der Server nicht läuft, steht der Grund dabei. Mit „Erneut starten“ lässt er sich neu starten."
+    "Verschlüsselte Verbindung zu den Firmenhandys mit eigenem Zertifikat. Der Fingerabdruck steht im Geräte-QR. Handys bitte einmal neu koppeln.",
+    "Profile werden nur hier im HK Go OS aktiviert: Mitarbeiter wählen, „Profil aktivieren“, dann wählt die Person ihre PIN selbst am PC oder die Leitung gibt sie ein.",
+    "Aktive Profile erscheinen von selbst auf allen gekoppelten Firmenhandys. Eine PIN für Handy und PC.",
+    "Geräte: „Zuletzt verbunden“ und Knopf zum Entfernen alter Handys.",
+    "Firmendaten gehen automatisch an die Handys (Einstellungen am Handy)."
   ]
 }
