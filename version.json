@@ -1,15 +1,11 @@
 {
   "app": "hk_go_os",
-  "version": "0.1.3",
-  "build": 4,
-  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.3/HK-Go-OS-0.1.3-Windows.zip",
-  "sha256": "8e6d32a3db3d122287d06fb25baf01da780347a5d8675a794fc70401f49ee4eb",
+  "version": "0.1.4",
+  "build": 5,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.4/HK-Go-OS-0.1.4-Windows.zip",
+  "sha256": "8a15ab84f650eb055dc38be4adf71f8160e78d6ae9e6e7ad994e987108b8fb8d",
   "neuerungen": [
-    "Neu: Einstellungen mit den Bereichen „Firmendaten“ und „Konten“.",
-    "Konten: Name, Rolle, Eintritt, Personalnummer und Zugang zum HK Go OS bearbeiten. Jede Änderung steht unter „Letzte Änderungen“.",
-    "Eine PIN für Handy und PC. Die Leitung kann eine neue PIN eingeben oder die PIN zurücksetzen, dann wählt die Person sie selbst (am PC oder am Firmenhandy).",
-    "Konten bearbeiten dürfen nur Inhaberin, Pflegedienstleitung und Technik.",
-    "Schutz: Die letzte Person aus der Leitung kann ihren Zugang nicht verlieren und nicht gesperrt werden.",
-    "Bestehende Konten wurden übernommen. Die PIN bleibt gleich."
+    "HK Go OS lässt sich nur noch einmal öffnen. Ein zweites Fenster zeigt „HK Go OS läuft bereits“ (zwei Fenster belegten den Server und Handys konnten sich nicht verbinden).",
+    "Startseite: Wenn der Server nicht läuft, steht der Grund dabei. Mit „Erneut starten“ lässt er sich neu starten."
   ]
 }
