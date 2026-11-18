@@ -1,12 +1,14 @@
 {
   "app": "hk_go_os",
-  "version": "0.1.1",
-  "build": 2,
-  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.1/HK-Go-OS-0.1.1-Windows.zip",
-  "sha256": "9449f2c7783299f402e760cbc0bcf2ca8ae5e21fe457b6b8a48f254cfbf681ff",
+  "version": "0.1.2",
+  "build": 3,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.2/HK-Go-OS-0.1.2-Windows.zip",
+  "sha256": "9aaedc6307bdad1e72ca80b967d463dbc1cb94ee2f7746fd4c0aa3f99f7bc930",
   "neuerungen": [
-    "Anmeldung: Das PIN-Feld zeigt jetzt alle Ziffern von 0 bis 9.",
-    "Updates direkt im Programm: HK Go OS sucht selbst nach neuen Versionen und installiert sie mit einem Klick.",
-    "Vor jedem Update werden die Daten und das alte Programm gesichert."
+    "Mitarbeiter und Geräte: Die Seiten werden wieder richtig angezeigt (Überschrift stand Buchstabe für Buchstabe untereinander).",
+    "Geräte: Neue übersichtliche Seite mit gut sichtbarem Knopf „Gerät aktivieren“. Jedes Handy hat eine eigene Karte.",
+    "Anmeldung: Die PIN lässt sich jetzt auch über die Tastatur eingeben (Zahlenreihe und Ziffernblock, Rücktaste löscht, Esc bricht ab).",
+    "Startseite: Der Bereich für Updates ist wieder sichtbar. Der Vorname erscheint ohne Komma.",
+    "Mitarbeiter: Die gewählte Person ist in der Liste wieder markiert."
   ]
 }
