@@ -1,0 +1,12 @@
+{
+  "app": "hk_go_os",
+  "version": "0.1.1",
+  "build": 2,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.1/HK-Go-OS-0.1.1-Windows.zip",
+  "sha256": "9449f2c7783299f402e760cbc0bcf2ca8ae5e21fe457b6b8a48f254cfbf681ff",
+  "neuerungen": [
+    "Anmeldung: Das PIN-Feld zeigt jetzt alle Ziffern von 0 bis 9.",
+    "Updates direkt im Programm: HK Go OS sucht selbst nach neuen Versionen und installiert sie mit einem Klick.",
+    "Vor jedem Update werden die Daten und das alte Programm gesichert."
+  ]
+}
