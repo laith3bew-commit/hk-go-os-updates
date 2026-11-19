@@ -1,14 +1,15 @@
 {
   "app": "hk_go_os",
-  "version": "0.1.5",
-  "build": 6,
-  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.1.5/HK-Go-OS-0.1.5-Windows.zip",
-  "sha256": "bb35200e0290c7f5df213d4fa1279b19b73772bb3b107b498b5d45eaed39b738",
+  "version": "0.2.0",
+  "build": 7,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.2.0/HK-Go-OS-0.2.0-Windows.zip",
+  "sha256": "9c647a3c982e6fb6643fb16cd2336a85a98d4bce88f803bfcc1f0d124ab8f4e5",
   "neuerungen": [
-    "Verschlüsselte Verbindung zu den Firmenhandys mit eigenem Zertifikat. Der Fingerabdruck steht im Geräte-QR. Handys bitte einmal neu koppeln.",
-    "Profile werden nur hier im HK Go OS aktiviert: Mitarbeiter wählen, „Profil aktivieren“, dann wählt die Person ihre PIN selbst am PC oder die Leitung gibt sie ein.",
-    "Aktive Profile erscheinen von selbst auf allen gekoppelten Firmenhandys. Eine PIN für Handy und PC.",
-    "Geräte: „Zuletzt verbunden“ und Knopf zum Entfernen alter Handys.",
-    "Firmendaten gehen automatisch an die Handys (Einstellungen am Handy)."
+    "Neu: HK Bericht Go. Links „Berichte“: alle Berichte der Firmenhandys, ungelesene oben mit Farbpunkt (grün normal, orange wichtig, rot sehr wichtig).",
+    "Bei jedem Bericht steht, wer ihn gelesen hat und wer noch nicht. „Gelesen“ zählt erst nach dem Klick.",
+    "Das Büro kann selbst Berichte schreiben, zum Beispiel nach einem Anruf vom Arzt.",
+    "Korrektur nur durch den Verfasser: Der alte Satz bleibt durchgestrichen lesbar, mit Name und Uhrzeit. Nichts wird gelöscht.",
+    "Neu: „Kunden“ mit Name, Kundennummer und Geburtsdatum. „Aus MD Ambulant übernehmen“ liest die Export-Datei (CSV) ein.",
+    "PDF wie das Papierformular Pflegebericht: nach Kunde oder nach Zeitraum, quer oder hoch. Jedes PDF zeigt, wann und von wem es gedruckt wurde."
   ]
 }
