@@ -1,10 +1,12 @@
 {
   "app": "hk_go_os",
-  "version": "0.2.0",
-  "build": 7,
-  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.2.0/HK-Go-OS-0.2.0-Windows.zip",
-  "sha256": "9c647a3c982e6fb6643fb16cd2336a85a98d4bce88f803bfcc1f0d124ab8f4e5",
+  "version": "0.2.1",
+  "build": 8,
+  "datei": "https://github.com/laith3bew-commit/hk-go-os-updates/releases/download/v0.2.1/HK-Go-OS-0.2.1-Windows.zip",
+  "sha256": "dad1fcde141cac336b61537b57c8c1ced9e95db782bd916f74f23af10267d7dd",
   "neuerungen": [
+    "PDF Pflegebericht: Der rechte Rand der Tabelle ist jetzt vollständig.",
+    "Bei mehreren Seiten steht der Kopf (Name, Kundennummer, Geburtsdatum, Logo) auf jeder Seite. Die leeren Zeilen gehen bis zum Seitenende.",
     "Neu: HK Bericht Go. Links „Berichte“: alle Berichte der Firmenhandys, ungelesene oben mit Farbpunkt (grün normal, orange wichtig, rot sehr wichtig).",
     "Bei jedem Bericht steht, wer ihn gelesen hat und wer noch nicht. „Gelesen“ zählt erst nach dem Klick.",
     "Das Büro kann selbst Berichte schreiben, zum Beispiel nach einem Anruf vom Arzt.",
